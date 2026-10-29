@@ -1,0 +1,13 @@
+KEY RESULTS (illustrative assumptions)
+{
+  "optimal_stock_quantity": 40,
+  "maximum_expected_profit_inr": 1240.0,
+  "expected_demand": 42.0,
+  "deterministic_baseline_quantity": 40,
+  "baseline_expected_profit_inr": 1240.0,
+  "monte_carlo_estimate_at_optimum": 1241.42,
+  "simulation_runs": 100000,
+  "seed": 42
+}
+
+Interpret results only under the assumptions documented in README.md and report.pdf.

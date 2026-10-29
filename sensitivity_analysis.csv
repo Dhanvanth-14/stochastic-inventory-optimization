@@ -1,0 +1,6 @@
+prob_demand_20,prob_demand_40,prob_demand_60,optimal_stock_quantity,maximum_expected_profit_inr
+0.4,0.5,0.1,40,880.0
+0.3,0.5,0.2,40,1060.0
+0.2,0.5,0.3,40,1240.0
+0.09999999999999998,0.5,0.4,40,1420.0
+0.0,0.5,0.5,40,1600.0
